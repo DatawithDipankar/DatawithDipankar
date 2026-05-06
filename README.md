@@ -27,7 +27,7 @@ I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Eve
 
 ## Featured Projects
 
-### 🍎 FreshHarvest AI — Fruit Freshness Classifier
+### 🍎 FreshHarvest AI - Fruit Freshness Classifier
 > Computer vision pipeline for automated fruit freshness inspection
 
 **What it does:** Classifies 8 fruits as fresh or spoiled in real-time from uploaded images with ~98% test accuracy across 16 classes.
@@ -58,7 +58,7 @@ I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Eve
 ### 🛒 Intent-Based E-Commerce Chatbot
 > Multi-chain LLM system with semantic query routing
 
-**What it does:** Routes user queries intelligently — FAQ questions hit RAG, data questions hit a SQL agent, casual chat hits a conversational chain. No irrelevant responses.
+**What it does:** Routes user queries intelligently - FAQ questions hit RAG, data questions hit a SQL agent, casual chat hits a conversational chain. No irrelevant responses.
 
 **How I built it:** Semantic routing architecture dispatching across 3 chains, integrated with Llama 3 via Groq API, with secure environment-based key management.
 
@@ -102,9 +102,9 @@ I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Eve
 
 <div align="center">
 
-![Dipankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DatawithDipankar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6)
+![Dipankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DatawithDipankar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DatawithDipankar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E75B6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DatawithDipankar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E75B6&cache_seconds=1800)
 
 </div>
 
@@ -112,11 +112,11 @@ I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Eve
 
 ## 📜 Certifications
 
-- Gen AI & Data Science Bootcamp 3.0 — Codebasics *(Apr 2026)*
-- Gen AI to Agentic AI — Codebasics *(Mar 2026)*
-- Natural Language Processing — Codebasics *(Jan 2026)*
-- Deep Learning: Beginner to Advanced — Codebasics *(Dec 2025)*
-- Master Machine Learning for Data Science & AI — Codebasics *(Aug 2025)*
+- Gen AI & Data Science Bootcamp 3.0 - Codebasics *(Apr 2026)*
+- Gen AI to Agentic AI - Codebasics *(Mar 2026)*
+- Natural Language Processing - Codebasics *(Jan 2026)*
+- Deep Learning: Beginner to Advanced - Codebasics *(Dec 2025)*
+- Master Machine Learning for Data Science & AI - Codebasics *(Aug 2025)*
 
 ---
 
