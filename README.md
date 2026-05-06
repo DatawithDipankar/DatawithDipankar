@@ -13,19 +13,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a fresher AI/ML developer who doesn't just build models — I deploy them. Every project I work on ends with a live, usable application. I've shipped computer vision pipelines, RAG systems, and LLM-powered chatbots — all production-ready on Streamlit.
+I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Every project I work on ends with a live, usable application. I've shipped computer vision pipelines, RAG systems, and LLM-powered chatbots - all production-ready on Streamlit.
 
-- 🔭 Currently building AI-powered applications using **LLMs, RAG, and Computer Vision**
-- 🛠️ I use **Claude, ChatGPT & GitHub Copilot** as development tools — not shortcuts
-- 📍 Based in Nallasopara, Maharashtra
-- 💬 Ask me about **RAG pipelines, PyTorch, Streamlit deployment, or Groq API**
-- 📫 Reach me at **dipankarmane17@gmail.com**
+- Currently building AI-powered applications using **LLMs, RAG, and Computer Vision**
+- I use **Claude, ChatGPT & GitHub Copilot** as development tools - not shortcuts
+- Based in Nallasopara, Maharashtra
+- Ask me about **RAG pipelines, PyTorch, Streamlit deployment, or Groq API**
+- Reach me at **dipankarmane17@gmail.com**
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 ### 🍎 FreshHarvest AI — Fruit Freshness Classifier
 > Computer vision pipeline for automated fruit freshness inspection
@@ -41,10 +41,10 @@ I'm a fresher AI/ML developer who doesn't just build models — I deploy them. E
 
 ---
 
-### 🏥 MediInsight AI — Clinical Decision Support System
+### 🏥 MediInsight AI - Clinical Decision Support System
 > RAG-powered research assistant grounded in peer-reviewed literature
 
-**What it does:** Answers clinical queries using 300 PubMed abstracts as context, citing exact PMIDs for every response — no hallucinations without sources.
+**What it does:** Answers clinical queries using 300 PubMed abstracts as context, citing exact PMIDs for every response - no hallucinations without sources.
 
 **How I built it:** Full RAG pipeline with custom TF-IDF embeddings, ChromaDB vector store, and Llama 3.3-70b via Groq API. Includes live ingestion stats, article previews, and conversation history.
 
@@ -68,7 +68,7 @@ I'm a fresher AI/ML developer who doesn't just build models — I deploy them. E
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI & ML**
 
@@ -98,7 +98,7 @@ I'm a fresher AI/ML developer who doesn't just build models — I deploy them. E
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -112,17 +112,17 @@ I'm a fresher AI/ML developer who doesn't just build models — I deploy them. E
 
 ## 📜 Certifications
 
-- 🎓 Gen AI & Data Science Bootcamp 3.0 — Codebasics *(Apr 2026)*
-- 🎓 Gen AI to Agentic AI — Codebasics *(Mar 2026)*
-- 🎓 Natural Language Processing — Codebasics *(Jan 2026)*
-- 🎓 Deep Learning: Beginner to Advanced — Codebasics *(Dec 2025)*
-- 🎓 Master Machine Learning for Data Science & AI — Codebasics *(Aug 2025)*
+- Gen AI & Data Science Bootcamp 3.0 — Codebasics *(Apr 2026)*
+- Gen AI to Agentic AI — Codebasics *(Mar 2026)*
+- Natural Language Processing — Codebasics *(Jan 2026)*
+- Deep Learning: Beginner to Advanced — Codebasics *(Dec 2025)*
+- Master Machine Learning for Data Science & AI — Codebasics *(Aug 2025)*
 
 ---
 
 <div align="center">
 
-**Open to AI/ML internship opportunities — let's build something.**
+**Open to AI/ML internship opportunities - let's build something.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipankar-mane-b9663b257)
 
