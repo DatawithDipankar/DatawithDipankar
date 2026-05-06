@@ -98,18 +98,6 @@ I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Eve
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Dipankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DatawithDipankar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DatawithDipankar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E75B6&cache_seconds=1800)
-
-</div>
-
----
-
 ## 📜 Certifications
 
 - Gen AI & Data Science Bootcamp 3.0 - Codebasics *(Apr 2026)*
