@@ -110,7 +110,7 @@ I'm a fresher AI/ML developer who doesn't just build models - I deploy them. Eve
 
 <div align="center">
 
-**Open to AI/ML internship opportunities - let's build something.**
+**Open to AI/ML opportunities - let's build something.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipankar-mane-b9663b257)
 
